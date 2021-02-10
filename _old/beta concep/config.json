@@ -1,0 +1,15 @@
+{
+	"np": {
+		"post": {
+			"key": "lnpv4wbwl5oq",
+			"host": "localhost:8090",
+			"url": "/pynp"
+		},
+		"file": {
+			"name": "np.txt"
+		}
+	},
+	"_key_hook": {
+		"keys": ["Q", "W"]
+	}
+}

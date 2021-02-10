@@ -1,0 +1,16 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="8">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="575" startPos="994" endPos="994" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\pyhelper.py" />
+            <File firstVisibleLine="19" xOffset="0" scrollWidth="1217" startPos="349" endPos="349" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\gui\pyhelper_gui_form.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="109" endPos="109" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\gui\pyhelper_pyhelper_gui.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="82" endPos="82" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\gui\pyhelper_cf_dialogpost.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1217" startPos="82" endPos="82" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\gui\pyhelper_cf_dialogfile.py" />
+            <File firstVisibleLine="20" xOffset="0" scrollWidth="1217" startPos="116" endPos="116" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\gui\configurator.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="371" endPos="371" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\build.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="344" endPos="344" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\_test_gui\icon_test\icon_2.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="39" endPos="39" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Hendel\Documents\GitHub\pyhelper\_test_gui\icon_test\icon_1.py" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

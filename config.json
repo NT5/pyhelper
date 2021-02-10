@@ -1,0 +1,14 @@
+{
+    "np": {
+        "file": {
+            "enable": true, 
+            "name": "np.txt"
+        }, 
+        "post": {
+            "enable": true, 
+            "host": "localhost:8090", 
+            "key": "12345", 
+            "url": "/pynp"
+        }
+    }
+}

